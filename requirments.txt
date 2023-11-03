@@ -1,0 +1,4 @@
+##############################
+ 1. pip install langchain
+ 2. pip install streamlit
+ 3. pip install 
